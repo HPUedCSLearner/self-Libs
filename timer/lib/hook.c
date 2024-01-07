@@ -167,7 +167,7 @@ void __cyg_profile_func_enter(void *func, void *caller) {
     
     // insert time prob
     self_start_time = perf_counter();
-    stack_push(&time_stk, shell_start_time);
+    stack_push(&time_stk, self_start_time);
 
 }
 
