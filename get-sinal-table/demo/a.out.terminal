@@ -1,0 +1,13 @@
+0x1000 _init
+0x1020 .plt
+0x1040 __cxa_finalize@plt
+0x1050 printf@plt
+0x1060 _start
+0x1090 deregister_tm_clones
+0x10c0 register_tm_clones
+0x1100 __do_global_dtors_aux
+0x1140 frame_dummy
+0x1149 do_multi
+0x1160 do_calc
+0x1183 main
+0x11ec _fini

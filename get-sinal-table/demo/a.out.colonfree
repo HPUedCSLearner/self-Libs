@@ -1,0 +1,13 @@
+7 0x1000  _init  
+19 0x1020  .plt  
+30 0x1040  __cxa_finalize@plt  
+37 0x1050  printf@plt  
+44 0x1060  _start  
+61 0x1090  deregister_tm_clones  
+74 0x10c0  register_tm_clones  
+92 0x1100  __do_global_dtors_aux  
+111 0x1140  frame_dummy  
+115 0x1149  do_multi  
+126 0x1160  do_calc  
+141 0x1183  main  
+174 0x11ec  _fini  
