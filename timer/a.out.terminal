@@ -1,0 +1,16 @@
+0x4003e0 _init
+0x400400 .plt
+0x400410 printf@plt
+0x400420 __libc_start_main@plt
+0x400430 __gmon_start__@plt
+0x400440 _start
+0x400470 deregister_tm_clones
+0x4004a0 register_tm_clones
+0x4004e0 __do_global_dtors_aux
+0x400500 frame_dummy
+0x40052d do_multi
+0x400540 do_calc
+0x40055f main
+0x4005c0 __libc_csu_init
+0x400630 __libc_csu_fini
+0x400634 _fini
